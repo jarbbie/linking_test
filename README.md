@@ -1,3 +1,3 @@
 # linking_test
 
-testing out multi languages linking
+Testing out multiple languages linking with "extern" in C
